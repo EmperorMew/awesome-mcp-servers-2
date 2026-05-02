@@ -294,6 +294,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Verodat](https://github.com/Verodat/verodat-mcp-server)** - Interact with Verodat AI Ready Data platform
 - **[VeyraX](https://github.com/VeyraX/veyrax-mcp)** - Single tool to control all 100+ API integrations, and UI components
 - **[VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)** - Server for advanced AI-driven video editing, semantic search, multilingual transcription, generative media, voice cloning, and content moderation.
+- **[Voidly Pay](https://github.com/voidly-ai/voidly-pay-mcp)** - Agent payment rail with x402 paywalls, escrow, streams, subscriptions, and a marketplace of 17 paid endpoints. USDC on Base via Sourcify-verified vault; 42 tools, free 10-credit faucet.
 - **[VISO TRUST](https://github.com/visotrust/viso-mcp-server)** - Access and manage your VISO TRUST third-party risk program directly through your AI assistant.
 - **[VpunaAiSearch](https://github.com/vpuna/vpuna-ai-search)** - Connect to [Vpuna AI Search Service](https://aisearch.vpuna.com), a developer first platform for semantic search, summarization, and contextual chat. Each project dynamically exposes its own Remote HTTP MCP server, enabling real-time context injection from structured and unstructured data.
 - **[WayStation](https://waystation.ai/connect/mcp-server)** — A universal remote MCP server that connects to popular productivity tools such as Notion, Monday, AirTable, and many more.
